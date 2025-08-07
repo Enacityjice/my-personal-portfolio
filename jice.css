@@ -1,0 +1,27 @@
+
+/* *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+} */
+
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+form{
+    width: 100%;
+}
+
+form input {  
+    padding: 1em 5em;
+}
+hr{    
+width: 100%;
+border-width: 10px;
+}
+.ice1{
+    color: rgb(211, 103, 103);
+
+}
